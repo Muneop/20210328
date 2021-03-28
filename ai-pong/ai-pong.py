@@ -5,9 +5,10 @@ from pygame.locals import *
 # Change this value to speed up or slow down your game
 FPS = 40
 INCREASESPEED = 5
-
+#change, 20210328, 17:20:58
 #Global Variables to be used through our program
-
+#changed in 200328
+#aaaaaddddd
 WINDOWWIDTH = 400
 WINDOWHEIGHT = 300
 LINETHICKNESS = 10
